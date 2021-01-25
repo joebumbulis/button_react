@@ -1,10 +1,7 @@
-# Getting Started with Create React App
+# Joe's Simple Button App with Tests
+This is a simple app that runs a couple tests. The app is bootstrapped with[Create React App](https://github.com/facebook/create-react-app). 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
-
-In the project directory, you can run:
 
 ### `yarn start`
 
